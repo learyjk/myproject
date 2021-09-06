@@ -1,0 +1,26 @@
+{
+  "dna": "2001",
+  "name": "#1",
+  "description": "These are shape faces NFT. An generative art project by Keegan Leary",
+  "image": "https://drive.google.com/drive/folders/1TIBQa0TwyzwVOHnIf3ZvSJv2J70hCptf?usp=sharing/1.png",
+  "edition": 1,
+  "date": 1630885336777,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Square"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Square"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    }
+  ]
+}
