@@ -5,7 +5,7 @@ application = Flask(__name__)
 @application.route("/")
 def hello():
     print(application.instance_path)
-    return application.instance_path
+    return "WHATTTT????"
 
 
 #application.config["NFT_IMAGES"] =
